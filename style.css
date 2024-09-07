@@ -1,0 +1,270 @@
+ul{
+    background-color:cadetblue;
+    list-style: none;
+    padding:0;
+    margin:0;
+    overflow:hidden;   
+   }
+   
+   li a{display: block;
+       color:black;
+       text-decoration: none;
+       padding: 20px;
+   
+       
+   }
+   
+   li{float: right;}
+   
+   li a:hover{
+       background-color:blue;
+       color:white;
+   }
+
+div.sec1{
+    position: relative;
+    top:0px;
+    width: 100%;
+    height: 500px;
+    border:1px solid white;
+    
+}
+
+div.navbar{
+    position:static;
+    top:0;
+    width:100%;
+}
+
+div.form{
+    position: absolute;
+    top: 100px;
+    left:800px;
+    border:1px solid white;
+    border-radius: 25px;
+    width: 400px;
+    height: 320px;
+    background-color:darkblue;
+}
+
+#form{
+     position: absolute;
+     top: 70px;
+     left: 100px;
+     
+    
+     
+}
+
+#email{
+    font-size: 15px;
+    font-family: verdana;
+    color: white;
+    
+}
+
+#mark{
+    width: 220px;
+    height: 20px;
+    
+}
+
+#submit{
+      width: 120px;
+      height: 30px;
+}
+
+
+
+div.sec2{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    border:1px solid white;
+    background-color: cadetblue;
+}
+
+
+div.sec3{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    border:1px solid white;
+    background-color:darkkhaki;
+}
+
+
+
+
+#d{
+    width: 100%;
+    height:500px;
+    opacity:0.5
+}
+
+#e{
+    width:500px;
+    height: 400px;
+}
+
+div.transfer{
+    position: absolute;
+    top: 150px;
+    left: 700px;
+}
+
+div.pos{
+    position: absolute;
+    top: 150px;
+    left: 45px;
+}
+
+div.bank{
+    position:absolute;
+    top: 150px;
+    left: 150px;
+}
+
+#j{
+    width: 70px;
+    
+}
+
+#f{
+    width: 600px;
+    height: 450px;
+}
+
+div.logo{
+    position:absolute;
+    top:5px;
+    left: 20px;
+    
+}
+
+div.loan{
+    position: absolute;
+    top: 190px;
+    left: 200px;
+}
+
+div.text{
+    position: absolute;
+    top: 300px;
+    left: 850px;
+}
+
+div.money{
+    position: absolute;
+    left:550px;
+}
+
+#money{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid white;
+    background-color:darkblue;
+    border-radius: 15px;
+    width: 200px;
+    text-align:center;
+    color:white;
+}
+
+#Money{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid white;
+    background-color:darkblue;
+    border-radius: 15px;
+    width: 300px;
+    text-align:center;
+    color:white;
+}
+div.leone{
+    position: relative;
+    top:0;
+    width:100%;
+    height:400px;
+    background-color: black;
+}
+
+div.our{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+  color:white;
+}
+
+div.select{
+    width:200px;
+}
+
+#a{
+    font-size: 30px;
+    font-family: verdana;
+    color:aqua
+    
+}
+
+#k{
+    width:200px;
+}
+
+#t{
+    width: 300px;
+}
+
+div.footer{
+    position:absolute;
+    top:50px;
+    left: 60px;
+    width:200px
+}
+
+#b{
+    font-size: 30px;
+    font-family: verdana;
+    color:blueviolet;
+}
+
+#z{
+    font-size: 25px;
+    font-family: verdana;
+    color:white;
+}
+
+#link{
+    color:darkgreen;
+}
+
+#w{
+    font-size: 20px;;
+}
+
+#ba{
+    font-size: 25px;
+    font-family: verdana;
+    color:darkblue0;
+}
+
+#us{
+    text-align: center;
+    color:white;
+}
+
+div.mark{
+    position:absolute;
+    top:3px;
+    left:550px;
+}
+
+#mar{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.u{
+    position:relative;
+    top:0;
+    background-color: black;
+}
